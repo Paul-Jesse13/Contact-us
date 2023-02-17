@@ -99,7 +99,7 @@ tr td{
     color: #fff;
 }
 @media only screen and (max-width: 970px){
-    .contact-field{
+    .contact-area{
         grid-template-columns: 100%;
     }
     .input-row{
